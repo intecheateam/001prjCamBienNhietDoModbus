@@ -1,0 +1,11 @@
+Added Component: Designator=D0.0(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=D0.0-1
+Added Pin To Net: NetName=NetD0.0_2 Pin=D0.0-2
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component D0.0 1N4007
+Added Room: Name=schCambiennhietdotestboard

@@ -1,0 +1,46 @@
+Added Component: Designator=IC2(TQFP 44)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Atmega 16L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PIN_1 Pin=IC2-1
+Added Pin To Net: NetName=PIN_2 Pin=IC2-2
+Added Pin To Net: NetName=PIN_3 Pin=IC2-3
+Added Pin To Net: NetName=PIN_4 Pin=IC2-4
+Added Pin To Net: NetName=PIN_5 Pin=IC2-5
+Added Pin To Net: NetName=GND Pin=IC2-6
+Added Pin To Net: NetName=NetC8_2 Pin=IC2-7
+Added Pin To Net: NetName=NetC6_2 Pin=IC2-8
+Added Pin To Net: NetName=PIN_9 Pin=IC2-9
+Added Pin To Net: NetName=PIN_10 Pin=IC2-10
+Added Pin To Net: NetName=PIN_11 Pin=IC2-11
+Added Pin To Net: NetName=NetIC2_12 Pin=IC2-12
+Added Pin To Net: NetName=PIN_15 Pin=IC2-15
+Added Pin To Net: NetName=PIN_16 Pin=IC2-16
+Added Pin To Net: NetName=PIN_5 Pin=IC2-17
+Added Pin To Net: NetName=GND Pin=IC2-18
+Added Pin To Net: NetName=PIN_19 Pin=IC2-19
+Added Pin To Net: NetName=PIN_20 Pin=IC2-20
+Added Pin To Net: NetName=PIN_21 Pin=IC2-21
+Added Pin To Net: NetName=PIN_22 Pin=IC2-22
+Added Pin To Net: NetName=PIN_23 Pin=IC2-23
+Added Pin To Net: NetName=PIN_24 Pin=IC2-24
+Added Pin To Net: NetName=PIN_25 Pin=IC2-25
+Added Pin To Net: NetName=PIN_26 Pin=IC2-26
+Added Pin To Net: NetName=PIN_5 Pin=IC2-27
+Added Pin To Net: NetName=GND Pin=IC2-28
+Added Pin To Net: NetName=PIN_5 Pin=IC2-29
+Added Pin To Net: NetName=PIN_31 Pin=IC2-31
+Added Pin To Net: NetName=PIN_32 Pin=IC2-32
+Added Pin To Net: NetName=PIN_33 Pin=IC2-33
+Added Pin To Net: NetName=PIN_34 Pin=IC2-34
+Added Pin To Net: NetName=PIN_35 Pin=IC2-35
+Added Pin To Net: NetName=PIN_36 Pin=IC2-36
+Added Pin To Net: NetName=PIN_37 Pin=IC2-37
+Added Pin To Net: NetName=PIN_5 Pin=IC2-38
+Added Pin To Net: NetName=GND Pin=IC2-39
+Added Pin To Net: NetName=PIN_40 Pin=IC2-40
+Added Pin To Net: NetName=PIN_41 Pin=IC2-41
+Added Pin To Net: NetName=PIN_42 Pin=IC2-42
+Added Pin To Net: NetName=PIN_43 Pin=IC2-43
+Added Pin To Net: NetName=PIN_44 Pin=IC2-44
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component IC2 ATMEL 16A
+Added Room: Name=schCambiennhietdotestboard

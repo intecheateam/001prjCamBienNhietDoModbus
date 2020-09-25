@@ -1,0 +1,41 @@
+Added Component: Designator=C1(JP5-D2T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx21821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "61301021821"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GMK316F106ZL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-1352-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CL21A106KACLRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CL21A106KACLRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplierr 1"; Value = "Samsung"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PIN_1 Pin=C1-1
+Added Pin To Net: NetName=PIN_4 Pin=C1-3
+Added Pin To Net: NetName=PIN_3 Pin=C1-4
+Added Pin To Net: NetName=PIN_2 Pin=C1-5
+Added Pin To Net: NetName=GND Pin=C1-6
+Added Pin To Net: NetName=GND Pin=C1-7
+Added Pin To Net: NetName=GND Pin=C1-8
+Added Pin To Net: NetName=GND Pin=C1-9
+Added Pin To Net: NetName=PIN_5 Pin=C1-10
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=PIN_5 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C1 JP5x2
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C4 10uF
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C5 10uF

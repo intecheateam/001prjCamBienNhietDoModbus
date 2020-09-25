@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KF7.62'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CIXI KEFA ELECTRONICS", "KF7.62" (!) = "", "SHDR5W120P0X762_1X5_3810X1200X1240P", "Header, Shrouded", "", "", "", "", "D", "http://en.cnkefa.com/uploads/2016/07/181706523348.pdf", "12.4 mm"
+END_PART
+
+END.

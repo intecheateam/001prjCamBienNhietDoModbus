@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+24 Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=RS485_A Pin=P1-3
+Removed Pin From Net: NetName=RS485_B Pin=P1-4
+Change Component Footprint: Designator=P1 Old Footprint=4P-3.5 New Footprint=CON6
+Change Component Comment : Designator=P1 Old Comment=PIN IO New Comment=CON6
+Added Pin To Net: NetName=RS485_B Pin=P1-3
+Added Pin To Net: NetName=RS485_A Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=+24 Pin=P1-6

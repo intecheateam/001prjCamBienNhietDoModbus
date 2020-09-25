@@ -1,0 +1,7 @@
+Added Component: Designator=X1(XTAL49S-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_2 Pin=X1-1
+Added Pin To Net: NetName=NetC6_2 Pin=X1-2
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component IC2 ATMEL 16A
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component X1 12Mhz

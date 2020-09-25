@@ -1,0 +1,120 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "KF7.62"
+   (description "D")
+   (family "CON")
+   (package "SHDR5W120P0X762_1X5_3810X1200X1240P")
+   (attribute "Datasheet Link" "http://en.cnkefa.com/uploads/2016/07/181706523348.pdf")
+   (attribute "Geometry.Height" "12.4mm")
+   (attribute "Manufacturer_Name" "CIXI KEFA ELECTRONICS")
+   (attribute "Manufacturer_Part_Number" "KF7.62")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "RS Part Number" "")
+   (attribute "RS Price/Stock" "")
+   (gate
+    (symbol "KF7.62")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+   )
+  )
+  (symbol "KF7.62"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SHDR5W120P0X762_1X5_3810X1200X1240P"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -4.06 -10.25)
+      (pt -4.06 2.25)
+      (pt 34.54 2.25)
+      (pt 34.54 -10.25)
+      (pt -4.06 -10.25))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.81 -10)
+      (pt -3.81 2)
+      (pt 34.29 2)
+      (pt 34.29 -10)
+      (pt -3.81 -10))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 -10)
+      (pt 34.29 -10)
+      (pt 34.29 2)
+      (pt -3.81 2)
+      (pt -3.81 0))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 7.62 0) (padstack 0))
+   (leg 3 (pt 15.24 0) (padstack 0))
+   (leg 4 (pt 22.86 0) (padstack 0))
+   (leg 5 (pt 30.48 0) (padstack 0))
+   (padstack 0
+    (hole 1.9)
+    (plated true)
+    (pad (layer TCOP) (round 2.85))
+    (pad (layer INNER) (round 2.85))
+    (pad (layer BCOP) (round 2.85))
+   )
+   (padstack 1
+    (hole 1.9)
+    (plated true)
+    (pad (layer TCOP) (square 2.85))
+    (pad (layer INNER) (round 2.85))
+    (pad (layer BCOP) (square 2.85))
+   )
+  )
+ )
+)

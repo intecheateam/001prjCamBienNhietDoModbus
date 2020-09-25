@@ -1,0 +1,209 @@
+Added Component: Designator=C2(CP1.5/3.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Description 1"; Value = "1000uF/6,3V - 470uF/16V - 330uF - 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "220uF/35V - 100uF/50V - 63V - 4,7uF/200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "22uF => 33uF100V - 3,3uF => 4,7uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "2,2uF =>3,3uF/350 - 2,2uF/400V - 1uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF/35V/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CP1/2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Description 1"; Value = "10 => 220uF/6,3V/10V - 10uF => 100uF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "0,1uF => 33uF/50V - 10uF => 22uF/63V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "0,47uF => 10uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GMK316F106ZL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-1352-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GMK316F106ZL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-1352-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GMK316F106ZL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-1352-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GMK316F106ZL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-1352-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GMK316F106ZL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-1352-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GMK316F106ZL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-1352-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GMK316F106ZL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-1352-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GMK316F106ZL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-1352-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CN-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GMK316F106ZL-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "587-1352-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED-0805-Red)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(QTO-220)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(RES-1WD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L3(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(4P-3.5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(R2WD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R2W - 47"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R2WD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R2W - 47"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SMD-2512)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=S1(A-1010S)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70041193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/copal-s-1010a/70041193/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.nidec-copal-electronics.com/e/catalog/switch/s-1000a&s-2000a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Copal Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S-1010A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "3524666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/3524666"; VariantName = "[No Variations]"
+Added Component: Designator=S2(FPC16P-0.5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=PIN_5 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=PIN_4 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=PIN_5 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=SDA Pin=C11-2
+Added Pin To Net: NetName=PIN_5 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=PIN_5 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=SCL Pin=C15-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=PIN_5 Pin=D1-2
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=NetC3_1 Pin=IC1-3
+Added Pin To Net: NetName=NetC3_1 Pin=L1-1
+Added Pin To Net: NetName=PIN_5 Pin=L1-2
+Added Pin To Net: NetName=NetIC3_7 Pin=L2-1
+Added Pin To Net: NetName=RS485_B Pin=L2-2
+Added Pin To Net: NetName=NetIC3_6 Pin=L3-1
+Added Pin To Net: NetName=RS485_A Pin=L3-2
+Added Pin To Net: NetName=+24 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=RS485_A Pin=P1-3
+Added Pin To Net: NetName=RS485_B Pin=P1-4
+Added Pin To Net: NetName=NetC4_1 Pin=R1-1
+Added Pin To Net: NetName=+24 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R3-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=PIN_21 Pin=S1-1
+Added Pin To Net: NetName=PIN_22 Pin=S1-2
+Added Pin To Net: NetName=PIN_23 Pin=S1-4
+Added Pin To Net: NetName=PIN_24 Pin=S1-8
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=PIN_32 Pin=S2-3
+Added Pin To Net: NetName=PIN_33 Pin=S2-4
+Added Pin To Net: NetName=PIN_34 Pin=S2-5
+Added Pin To Net: NetName=PIN_35 Pin=S2-6
+Added Pin To Net: NetName=PIN_36 Pin=S2-7
+Added Pin To Net: NetName=PIN_37 Pin=S2-8
+Added Pin To Net: NetName=PIN_2 Pin=S2-9
+Added Pin To Net: NetName=PIN_1 Pin=S2-10
+Added Pin To Net: NetName=PIN_44 Pin=S2-11
+Added Pin To Net: NetName=PIN_43 Pin=S2-12
+Added Pin To Net: NetName=PIN_42 Pin=S2-13
+Added Pin To Net: NetName=PIN_41 Pin=S2-14
+Added Pin To Net: NetName=PIN_40 Pin=S2-15
+Added Pin To Net: NetName=PIN_5 Pin=S2-16
+Added Pin To Net: NetName=NetD0.0_2 Pin=R2-2
+Added Net: Name=NetD0.0_2
+Added Pin To Net: NetName=NetR14_2 Pin=S1-C
+Added Net: Name=NetR14_2
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C2 220uF/35V
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C3 100uF/16V
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C6 33pF
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C7 0.1uF
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C8 33pF
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C9 10uF
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C10 10uF
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C11 10uF
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C13 10uF
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C14 0.1uF
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component C15 10uF
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component D1 LED2
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component IC1 LM2940
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component L1 10uH
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component L2 220nH
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component L3 220nH
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component P1 PIN IO
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component R1 2R/1W
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component R2 160R/1W
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component R3 180R
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component S1 S-1010A
+Added Member To Class: ClassName=schCambiennhietdotestboard Member=Component S2 SocketFPC
+Added Room: Name=schCambiennhietdotestboard
