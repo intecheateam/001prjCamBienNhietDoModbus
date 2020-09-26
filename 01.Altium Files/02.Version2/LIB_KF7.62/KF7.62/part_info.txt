@@ -1,9 +1,0 @@
-Manufacturer=CIXI KEFA ELECTRONICS
-PartNumber=KF7.62
-PartCategory=Connector
-PackageCategory=Header, Shrouded
-PinCount=5
-Version=1.1
-Released=2019-06-11 14:01:59
-Downloaded=2019-12-26 04:12:42
-3D=N
